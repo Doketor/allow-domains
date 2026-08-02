@@ -1181,3 +1181,6 @@ nftset=/zendesk.com/4#inet#fw4#vpn_domains
 nftset=/zerkalo.io/4#inet#fw4#vpn_domains
 nftset=/zerossl.com/4#inet#fw4#vpn_domains
 nftset=/zona.media/4#inet#fw4#vpn_domains
+nftset=/openclaw.ai/4#inet#fw4#vpn_domains
+nftset=/openclaw.ai/4#inet#fw4#vpn_domains
+nftset=/telegram.org/4#inet#fw4#vpn_domains
