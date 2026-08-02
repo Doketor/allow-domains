@@ -1186,3 +1186,4 @@ nftset=/vikunja.io/4#inet#fw4#vpn_domains
 nftset=/telegram.org/4#inet#fw4#vpn_domains
 nftset=/changedetection.io/4#inet#fw4#vpn_domains
 nftset=/coolify.io/4#inet#fw4#vpn_domains
+nftset=/netnewswire.com/4#inet#fw4#vpn_domains
