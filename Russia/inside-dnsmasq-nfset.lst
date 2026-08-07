@@ -1187,7 +1187,6 @@ nftset=/telegram.org/4#inet#fw4#vpn_domains
 nftset=/changedetection.io/4#inet#fw4#vpn_domains
 nftset=/coolify.io/4#inet#fw4#vpn_domains
 nftset=/netnewswire.com/4#inet#fw4#vpn_domains
-
 nftset=/t.me/4#inet#fw4#vpn_domains
 nftset=/tg.dev/4#inet#fw4#vpn_domains
 nftset=/tg.org/4#inet#fw4#vpn_domains
