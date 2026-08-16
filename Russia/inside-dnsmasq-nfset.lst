@@ -1240,6 +1240,6 @@ nftset=/usercontent.dev/4#inet#fw4#vpn_domains
 nftset=/tgram.org/4#inet#fw4#vpn_domains
 nftset=/torg.org/4#inet#fw4#vpn_domains
 nftset=/kali.org/4#inet#fw4#vpn_domains
-
+nftset=/gemini.google.com/4#inet#fw4#vpn_domains
 
 
