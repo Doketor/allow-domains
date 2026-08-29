@@ -1254,3 +1254,7 @@ nftset=/steamdb.info/4#inet#fw4#vpn_domains
 nftset=/south-park.mult-fan.tv/4#inet#fw4#vpn_domains
 nftset=/nim-lang.org/4#inet#fw4#vpn_domains
 nftset=/overthewire.org/4#inet#fw4#vpn_domains
+nftset=/securitymentor.ru/4#inet#fw4#vpn_domains
+nftset=/github.com/4#inet#fw4#vpn_domains
+nftset=/overthewire.org/4#inet#fw4#vpn_domains
+nftset=/cloudhuntinggames.com/4#inet#fw4#vpn_domains
