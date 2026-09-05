@@ -1261,3 +1261,4 @@ nftset=/cloudhuntinggames.com/4#inet#fw4#vpn_domains
 nftset=/raw.githubusercontent.com/4#inet#fw4#vpn_domains
 nftset=/ubuntu.com/4#inet#fw4#vpn_domains
 nftset=/share.note.sx/4#inet#fw4#vpn_domains
+nftset=/2ip.io/4#inet#fw4#vpn_domains
