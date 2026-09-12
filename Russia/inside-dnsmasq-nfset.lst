@@ -1263,4 +1263,4 @@ nftset=/ubuntu.com/4#inet#fw4#vpn_domains
 nftset=/share.note.sx/4#inet#fw4#vpn_domains
 nftset=/2ip.io/4#inet#fw4#vpn_domains
 nftset=/psx-place.com/4#inet#fw4#vpn_domains
-
+nftset=/pkg-zone.com/4#inet#fw4#vpn_domains
