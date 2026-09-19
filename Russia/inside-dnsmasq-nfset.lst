@@ -1267,3 +1267,4 @@ nftset=/pkg-zone.com/4#inet#fw4#vpn_domains
 nftset=/etcher.balena.io/4#inet#fw4#vpn_domains
 nftset=/psxhax.com/4#inet#fw4#vpn_domains
 nftset=/romsfun.com/4#inet#fw4#vpn_domains
+nftset=/randomnerdtutorials.com/4#inet#fw4#vpn_domains
